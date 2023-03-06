@@ -28,6 +28,7 @@ Organizations
 + Figma (YouTube)
 + Google IT Support
 + Android Enterprise Certified Professional
++ RS Schools Course - JavaScript/Front-end. Stage 0
 
 ----
 ## **Languages**
