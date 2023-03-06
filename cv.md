@@ -27,6 +27,48 @@ Organizations
 + Git, GitHub (Bogdan Stashchuk)
 + Figma (YouTube)
 + Google IT Support
-+ RS Schools Course "JavaScript/Front-end. Stage 0"
 + Android Enterprise Certified Professional
++ RS Schools Course "JavaScript/Front-end. Stage 0"
 ----
+## **Languages**
+- English - Pre-intermediate
+- Russian - Native
+- Ukraine – Native
+- Polish – Fluent
+
+___
+
+## **Soft Skills**
+- great team-player
+- stress resistant
+- friendly
+- purposeful
+- quick learner
+
+
+## **Hard Skills**
+
+- HTML5, CSS3, JavaScript (basic)
+- Git, GitHub
+- Adobe (Photoshop, Lightroom, PremierePro)
+- Figma basics
+- Linux 
+- Windows Administrator
+- Virtualization Hyper-V, VMware, XenServer
+- Azure Administrator
+- Backup Nakivo, Veeam, Synology
+
+----
+
+## **Code example**
+```for (let i = 10; i <= 99; i++)
+     
+     let firstDigit = Math.floor(i / 10)
+     let secondDigit = i % 10
+     
+     if (firstDigit >= secondDigit) {
+         console.log(i)
+         document.write(`${i}`)
+          }
+        }
+```
