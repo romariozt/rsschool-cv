@@ -11,3 +11,22 @@
 - [**Github**](https://github.com/romariozt)
 
 -----
+## **About**
+In the future, I want to become a Front-End Developer. I finished a course on HTML and CSS, started to learn JavaScript, and many also practice. I also practice UI/UX design with programs such as Figma, Adobe Illustrator & Photoshop. Now I work as a System Engineer.
+
+----
+##  **Education**
+#### 1997-2000:
+Zhytomyr Institute of
+Engineering and Technologies,
+Specialty, degree in Managing
+Organizations
+#### Courses:
++ HTML5 & CSS3 (Byte Academy)
++ JavaScript (Freelancer)
++ Git, GitHub (Bogdan Stashchuk)
++ Figma (YouTube)
++ Google IT Support
++ RS Schools Course "JavaScript/Front-end. Stage 0"
++ Android Enterprise Certified Professional
+----
