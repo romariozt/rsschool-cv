@@ -26,7 +26,7 @@ Organizations
 + JavaScript (Freelancer)
 + Git, GitHub (Bogdan Stashchuk)
 + Figma (YouTube)
-+ Google IT Support
++ Google IT Support (Prometheus)
 + Android Enterprise Certified Professional
 + RS Schools Course - JavaScript/Front-end. Stage 0
 
